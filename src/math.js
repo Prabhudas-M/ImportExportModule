@@ -4,7 +4,7 @@ function double() {
   return pi * 2;
 }
 function Trible() {
-  return pi * 3;
+  return pi * 4;
 }
 export default pi;
 export { double, Trible };
