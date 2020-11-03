@@ -1,5 +1,3 @@
-import React from "react";
-
 const pi = 3.142345;
 
 function double() {
